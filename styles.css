@@ -16,9 +16,11 @@ body {
 }
 
 main {
-  background: url(images/Mobile.png);
-  width: 375px;
-  height: 812px;
+  background: url(images/Mobile.png) no-repeat center;
+  width: 100vw;
+  /* min-width: 375px; */
+  min-height: 812px;
+  height: 100vh;
 }
 
 .container {

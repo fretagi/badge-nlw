@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: 'fretagi',
-  youtube: 'fernando.retagi',
+  linkedin: 'in/fernando-retagi-23160b32',
   facebook: 'fernando.retagi',
   instagram: 'fretagi',
   twitter: 'fretagi'
